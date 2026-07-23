@@ -1,12 +1,6 @@
-<h3 align="center">Building software that lasts.</h3>
-<div align='center' width='100%'>
-  <p>📫 How to reach me <strong>kenjie@kenjie.dev</strong></p>
-  <p>⚡ Fun fact <strong>I think in vim motions.</strong></p>
-</div>
+<h3>building software that lasts.</h3>
 
-<div align="center" width='100%'>
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://linkedin.com/in/chipzroar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenjie" height="30" width="40" /></a>
-  <a href="https://twitter.com/kenjiebalona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"   alt="kenjiebalona" height="30" width="40" /></a>
-</div>
+<p>
+  📫 <strong>kenjie@kenjie.dev</strong><br>
+  ⚡ <strong>i think in vim motions.</strong>
+</p>
